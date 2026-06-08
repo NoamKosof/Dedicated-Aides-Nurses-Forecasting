@@ -1,0 +1,10 @@
+Required--
+
+jupyter
+matplotlib
+openpyxl
+pandas
+numpy
+scikit-learn
+statsmodels
+
